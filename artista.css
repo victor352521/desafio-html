@@ -1,0 +1,66 @@
+h1 {
+    text-align: center;
+    color: aquamarine;
+    font-size: 45px;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: aqua;
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.lista {
+    font-size: 25px;
+    align-items: flex-end;
+}
+
+img {
+    width: 420px;
+    padding: 8px;
+    padding-left: 12px;
+    
+}
+
+.titulo {
+    font-size: 40px;
+    text-align: center;
+
+}
+
+.texto {
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aqua;
+    text-decoration: overline;
+}
+
+body {
+    background-color: lightseagreen;
+}
+
+ul li {
+    margin-top: 40px;
+}
+
+.imagem {
+    width: 250px;
+    display: inline block;
+}
+
+p {
+    text-align: center;
+    background-color: lightseagreen;
+    font-size: 20px;
+}
+
+footer {
+    text-align: center;
+  }
