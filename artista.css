@@ -14,9 +14,13 @@ main{
     background-color: lightseagreen;
     font-size: 20px;
 }
+
+
 p{
     margin: 100px 0px;
 }
+
+
 h1 {
     text-align: center;
     margin-bottom: 30px;
@@ -25,11 +29,32 @@ h1 {
     text-decoration: underline;
     font-family: 'Courier New', Courier, monospace;
 }
+
+
 section{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;  
 }
+
+
+.alinhar{
+    display: block;
+}
+
+
+.teste{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aqua;
+}
+
+
+.image-container {
+    float: left;
+    margin-right: 10px;
+}
+
 
 h2 {
     color: aqua;
@@ -38,10 +63,12 @@ h2 {
     font-family: 'Courier New', Courier, monospace;
 }
 
+
 .lista {
     font-size: 25px;
     align-items: flex-end;
 }
+
 
 img {
     width: 420px;
@@ -50,11 +77,13 @@ img {
     
 }
 
+
 .titulo {
     font-size: 40px;
     text-align: center;
 
 }
+
 
 .texto {
     font-size: 25px;
@@ -63,13 +92,16 @@ img {
     text-decoration: overline;
 }
 
+
 body {
     background-color: lightseagreen;
 }
 
+
 ul li {
     margin-top: 40px;
 }
+
 
 .imagem {
     width: 250px;
@@ -79,5 +111,5 @@ ul li {
 
 footer {
     text-align: center;
-    background: aqua url('OIP (2).jpeg') center center fixed;
+    background: aqua url('baixados\ \(5\).jpeg') center center fixed;
   }
